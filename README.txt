@@ -3,7 +3,7 @@
 Tool: Python, Jupyter Notebook
 
 Dataset: Credit Card Fraud Detection Dataset (Kaggle)
-Dataset Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?utm_source=chatgpt.com
+Dataset Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?
 
 ## Project Description
 - FraudShield is a Machine Learning project developed using the Gaussian Naive Bayes algorithm to detect fraudulent credit card     transactions.
